@@ -21,4 +21,4 @@
 
 - [wiki百科 - 密码学](https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6)
 
-- [人人都能](https://crypt.wenwoha.com/history/index.html)
+- [人人都能看懂的密码学](https://crypt.wenwoha.com/history/index.html)
